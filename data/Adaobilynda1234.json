@@ -1,0 +1,13 @@
+{
+  "name": "Adaobi Okwuosa",
+  "bio": "Frontend web developer | proficient in html,css,bootstrap,tailwind css,scss,markdown,javascript and react | **GitHub** Star",
+  "links": [
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/MDaobi",
+      "icon": "FaTwitter",
+       "color": "#00ACEE"
+    }
+  ]
+}
